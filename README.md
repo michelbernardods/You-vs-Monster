@@ -1,5 +1,5 @@
 <h1 align="center">
- You-vs-Monster
+ You vs Monster
 </h1>
 
 ## 💻 Projeto 
